@@ -1,11 +1,3 @@
-# Python Final Project
-# Connect Four
-#
-# Erik Ackermann
-# Charlene Wang
-#
-# Play connect four
-# February 27, 2012
 
 from connect4 import *
 
