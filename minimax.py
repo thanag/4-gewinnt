@@ -1,11 +1,3 @@
-# Python Final Project
-# Connect Four
-#
-# Erik Ackermann
-# Charlene Wang
-#
-# Connect 4 Module
-# February 27, 2012
 
 import random
 
