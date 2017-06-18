@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 import time
 import os
-import pract04
+
 
 ###
 # SpielfeldgrÃ¶ÃŸe und GewinnlÃ¤nge
